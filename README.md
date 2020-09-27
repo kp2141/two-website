@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). I created this web-app as a pat of learning the react. It was fun project to work upon. I used React library in this projec. I learned about React props and component with this small project.
 
 ## Available Scripts
 
