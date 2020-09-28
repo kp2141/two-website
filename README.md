@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). I created this web-app as a pat of learning the react. It was fun project to work upon. I used React library in this projec. I learned about React props and component with this small project.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). I created this web-app as a pat of learning the react. It was fun project to work upon. I used React library in this projec. I learned about React props and component with this small project and also learned how to deploy the react project on heroku.
 
 And the project is up and running on heroku platform here. open [https://two-website.herokuapp.com/](https://two-website.herokuapp.com/) to view it in the browser.
 
